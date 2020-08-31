@@ -1,0 +1,21 @@
+body{
+    margin: 80px;
+}
+.wrapper{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+    background-color: white;
+}
+.box{
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 200%;
+}
+.task
+{
+    background-color: aqua;
+    padding: 5px;
+    margin: 4px;
+}
